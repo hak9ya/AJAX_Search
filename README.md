@@ -18,6 +18,7 @@
 > 6. MySQL을 사용해서 만든 데이터베이스를 JDBC5.1.48을 이용하여 JSP와 연동하였습니다.
 
 ## 프로젝트 주요 기능
+![화면 캡처 2020-09-25 185833](https://user-images.githubusercontent.com/63631952/94255552-60da8400-ff63-11ea-8eb1-eae3a13559ad.png)
 
 - 파싱하기 쉽게 JSON을 사용하여 검색했을때 정보를 JSON형태로 출력
 ```
