@@ -1,4 +1,5 @@
 ![2](https://user-images.githubusercontent.com/63631952/94255202-d98d1080-ff62-11ea-9de4-77cd08576133.png)
+![3](https://user-images.githubusercontent.com/63631952/94255264-ef023a80-ff62-11ea-91a8-6a924bc5e79b.png)
 
 # AJAX를 이용한 비동기식 검색구현
 
