@@ -65,6 +65,8 @@ public class UserSearchServlet extends HttpServlet {
 	}
 }
 ```
+![화면 캡처 2020-09-25 191526](https://user-images.githubusercontent.com/63631952/94255645-85cef700-ff63-11ea-9bc0-f504b0a5b83e.png)
+
 - XMLHttpRequest(AJAX) 기법
 ```
 		var searchRequest = new XMLHttpRequest(); // 웹사이트에 요청을 보내는 역할을 하는 인스턴스 생성
