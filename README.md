@@ -1,5 +1,6 @@
 ![2](https://user-images.githubusercontent.com/63631952/94255202-d98d1080-ff62-11ea-9de4-77cd08576133.png)
 ![3](https://user-images.githubusercontent.com/63631952/94255264-ef023a80-ff62-11ea-91a8-6a924bc5e79b.png)
+![ajax](https://user-images.githubusercontent.com/63631952/94255340-0ccf9f80-ff63-11ea-9c96-8f9d4c7e4ce7.png)
 
 # AJAX를 이용한 비동기식 검색구현
 
@@ -17,6 +18,7 @@
 > 6. MySQL을 사용해서 만든 데이터베이스를 JDBC5.1.48을 이용하여 JSP와 연동하였습니다.
 
 ## 프로젝트 주요 기능
+
 - 파싱하기 쉽게 JSON을 사용하여 검색했을때 정보를 JSON형태로 출력
 ```
 package user;
